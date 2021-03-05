@@ -5,7 +5,7 @@ This machine used a series of rotors and a reflector to code and decode messages
 
 ## Rotors
 
-I have created a class for the rotors that consist of lists of tuples that use an indexing sistem to locate the output letters and that rotate whenever a letter is inserted into the machine. This is the way the physical rotors worked in the physical Enigma Machine.
+I have created a class for the rotors that consist of lists of tuples that use an indexing system to locate the output letters and that rotate whenever a letter is inserted into the machine. This is the way the physical rotors worked in the physical Enigma Machine.
 The only difference with the physical device is that you can customize the rotors in the virtual machine to use any language // characters that you want.
 
 (You can also set the letters for the starting position in the rotors whenever you initialize your enigma machine)
